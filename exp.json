@@ -1,0 +1,18 @@
+{
+    "name": "Picolay",
+    "description": "Sossial app",
+    "slug": "picolay",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "facebookScheme":"fb1732430533492204",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    }
+  
+}
